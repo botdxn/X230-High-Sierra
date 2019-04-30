@@ -11,6 +11,7 @@ In order for Bluetooth to work properly you need to have the switch flipped on b
 
 Mojave is supported for this Thinkpad but I am getting memory error after updating from appstore (End Randomseed) and I am currently working on resolving this issue.
 
+Great performance setup for daily usage (web browsing, machine learning in python, lightgaming, study/work [10+ chrome tabs, couple of MS Word windows, spotify and all other stuff at once and the fans barely spin]). Around 3/4 hours of usage on 80% 9-cell battery.
 
 | Feature  | Desc |
 | ------------- | ------------- |
