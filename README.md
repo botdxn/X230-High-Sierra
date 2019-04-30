@@ -14,7 +14,7 @@ Mojave is supported for this Thinkpad but I am getting memory error after updati
 
 | Feature  | Desc |
 | ------------- | ------------- |
-| Audio  | Working, although the volume is quite quieter compared to Windows 10  |
+| Audio  | Working, although the volume is quite quieter compared to Windows 10 (even after enabling HalfVolumeFix in VoodooHDA |
 | GPU  | HD4000 works fine, smooth animations, game performance kinda crappy (League of Legends around 50 fps on lowest at native resolution  |
 | USB ports  | All working  |
 | CPU Sleep states  | All working, turbo boost works, clocking down works  |
@@ -27,3 +27,9 @@ Mojave is supported for this Thinkpad but I am getting memory error after updati
 | Cardreader  | Got kext to recognize it although the system freezes when you put any SD Card inside  |
 | Sleep  | Goes to sleep although I never actually checked if it really goes to sleep without draining too much battery |
 | Keyboard  | All function (except for mic on/off) keys working properly - brightness, volume, mute audio  |
+
+
+Credits to already existing repos:
+https://github.com/Bizzaro/x230-osx
+https://github.com/xxx10101xxx/ThinkPad-X230-macOS
+https://github.com/Lunarixus/ThinkPadx230Mojave (for the WiFi card swap without flashing BIOS)
