@@ -29,6 +29,7 @@ Mojave is supported for this Thinkpad but I am getting memory error after updati
 | Keyboard  | All function (except for mic on/off) keys working properly - brightness, volume, mute audio  |
 | Intel QuickSync  | Working - for those of you using Final Cut Pro for video editing (can easily edit 4K footage; also exports are faster than on my main PC with Ryzen 5 1600 on Adobe Premiere :) (although when you use DaVinci Resolve on Windows PC it uses more cores than Premiere and the export times are way faster)  |
 | Fingerprint  | Don't even think about it  |
+| Serialport  | Working - For those of you using Arduino  |
 
 
 
