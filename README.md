@@ -27,6 +27,8 @@ Mojave is supported for this Thinkpad but I am getting memory error after updati
 | Cardreader  | Got kext to recognize it although the system freezes when you put any SD Card inside  |
 | Sleep  | Goes to sleep although I never actually checked if it really goes to sleep without draining too much battery |
 | Keyboard  | All function (except for mic on/off) keys working properly - brightness, volume, mute audio  |
+| Intel QuickSync  | Working - for those of you using Final Cut Pro for video editing (can easily edit 4K footage; also exports are faster than on my main PC with Ryzen 5 1600 on Adobe Premiere :) (although when you use DaVinci Resolve on Windows PC it uses more cores and the export times are way faster)  |
+
 
 
 Credits to already existing repos:
