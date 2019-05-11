@@ -32,7 +32,7 @@ Great performance setup for daily usage (web browsing, machine learning in pytho
 | Intel QuickSync  | Working - for those of you using Final Cut Pro for video editing (can easily edit 4K footage; also exports are faster than on my main PC with Ryzen 5 1600 on Adobe Premiere :) (although when you use DaVinci Resolve on Windows PC it uses more cores than Premiere and the export times are way faster)  |
 | Fingerprint  | Don't even think about it  |
 | Serialport  | Working - For those of you using Arduino  |
-| WWAN Modem  | Nope  |
+| WWAN Modem  | Nope although it's easy to fix if you have Erricsson one (CellPhoneHelper.kext + rebuild cache  |
 
 
 
