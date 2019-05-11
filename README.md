@@ -20,7 +20,7 @@ Great performance setup for daily usage (web browsing, machine learning in pytho
 | GPU  | HD4000 works fine, smooth animations, game performance kinda crappy (League of Legends around 50 fps on lowest at native resolution  |
 | USB ports  | All working  |
 | CPU and states  | All working, turbo boost works, clocking down works  |
-| Battery status  | Working, but I use 3rd party app "Endurance" (should improve battery life a bit, comes with it's own battery indicator  |
+| Battery status  | Working  |
 | WiFi  | Using USB dongle that doesn't support WPA2-Enterprise (most commonly found in school networks). Ordered a WiFi card mentioned here: https://github.com/Lunarixus/ThinkPadx230Mojave - will update if it works (requires rebranding)  |
 | Webcam  | Working  |
 | iCloud Services (Facetime, iMessage doesn't work - iCloud drive works)  | Not working (SMBIOS and all stuff inside config.plist configured properly but still getting error (even after talking with the support to unblock them)  |
